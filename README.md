@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muratcan</h1>
 <h3 align="center">A passionate Data Engineer/Scientist from Türkiye</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animation%2Fprogrammer-like-8928575&psig=AOvVaw3WxsJnObp6E8CRUYfymlb1&ust=1719753244367000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKD-65vygIcDFQAAAAAdAAAAABAE”>
+<img align=“right” alt=“Coding” width=“400” src=“[https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animation%2Fprogrammer-like-8928575&psig=AOvVaw3WxsJnObp6E8CRUYfymlb1&ust=1719753244367000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKD-65vygIcDFQAAAAAdAAAAABAE](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)”>
 
 
 - 📫 How to reach me **muratcan.altintas@outlook.com**
